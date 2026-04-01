@@ -1,4 +1,4 @@
-package com.orbitshop.ecommerce;
+package com.orbitshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
